@@ -1,1 +1,7 @@
-# AirBnB_clone
+<!DOCTYPE html>
+<html>
+<body>
+<h1>DESCRIPTION</h1>
+AirBnB is a complete web application, integrating database storage, a back-end API, and front-end interface.
+
+</body>
